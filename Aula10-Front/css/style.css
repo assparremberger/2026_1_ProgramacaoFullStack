@@ -1,0 +1,16 @@
+body{
+    padding-top: 150px;
+}
+
+/* #navBar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgb(212, 191, 191); 
+} */
+
+#navBar{
+
+    background-color: rgb(212, 191, 191); 
+}
